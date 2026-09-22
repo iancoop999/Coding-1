@@ -7,7 +7,7 @@
 # you can use both single and double quotations
 # marks for strings.
 # FLOATS- A number with a decimal.
-#Booleans: It can only be entered by data types.
+#Booleans: It can only be entered by data types. TRU/FALS
 #the hastag is a marker that are just whole numbers, or numbers 
 # without a decimal point.
 # we don't have to add any special symbols. we can just write the number

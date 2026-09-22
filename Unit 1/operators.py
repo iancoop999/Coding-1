@@ -17,6 +17,6 @@
 
 
 
-name = ian cooper
+print=  ian cooper
 grade = 10
 school = true
