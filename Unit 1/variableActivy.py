@@ -2,7 +2,7 @@
 # name your container almost anything you want. so long
 # as it is descriptive
 
-name = "Ian Cooper"
+# name = "Ian Cooper"
 
 # when we want to create a variable, we make up a word
 # use the equal sign and then, sign it a data type.

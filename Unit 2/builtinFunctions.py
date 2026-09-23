@@ -19,3 +19,5 @@
 # be converted into an interger (whole number).
 # transforms a decimal into a whole nmbr
 # cannot transform strings into nmbrs.
+
+# float() - a function that will change any datatype passed into it, into float/ (decimal number)

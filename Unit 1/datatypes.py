@@ -32,3 +32,4 @@
 # represents the snake on the ground
 # Pascal Case - Pascal case is the same as camel case EXCEPT,
 # all words are starting with a capital letter
+

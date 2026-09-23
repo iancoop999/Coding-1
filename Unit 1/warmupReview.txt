@@ -1,5 +1,0 @@
-4 data types we learnt during the class was, GPU, CPU, Abstraction and, Complexity.
-Code repository from my words is,
-A computer is an output device. I say this because
-A variable is a named container that can store data inside, and you can name your container almost anything you want.
-Variables canNOT contain spaces. It can't start with a number.
