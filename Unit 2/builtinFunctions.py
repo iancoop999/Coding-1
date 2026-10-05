@@ -1,8 +1,8 @@
-# function - simply put; a code bloc of instructions for computer to follow.
+# function - simply put; a code block of instructions for computer to follow.
 # Built- in Function - a code block of intruction for a computer to follow tht was already written for us.
 # PRE-WRITTEN CODE INSTRUCTIONS
 
-# input() a built in function that allows a user to type in data.
+# input() a built in function that allows a user to type in data, and in the terminal.
 # print() a built in function that allows a user to print data in the terminal.
 # name = input("what is your name?)
 #print(name)
