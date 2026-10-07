@@ -21,3 +21,5 @@
 # cannot transform strings into nmbrs.
 
 # float() - a function that will change any datatype passed into it, into float/ (decimal number)
+
+# FUNC DEF IS A PHASE
