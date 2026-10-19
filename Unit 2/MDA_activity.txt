@@ -1,0 +1,9 @@
+# For a start, my game that I'm making is based on a sonic game. Just like the real sonic games, my style will be far different then their styles because there will be
+# more free runs, less harder challenges, and the canon sonic background characters will be relavent and all of the characters you choose will all have
+# different gameplay's and stories based on their pathways.
+# The general actions my character will be able to walk, run, crawl, jump, homing attack, spindash, etc. 
+# If the character completes the level successfully, they will get a rank based on presission. If they complete a level with perfect precision, they will get an S rank.
+# If they complete a level with a good amount of precision, they will get an A rank.
+# IF they complete the levels with 2 deaths and very to low percision, they will get a D or an F rank.
+# If they character dies more than 3 times, they will die and restart. If they die and lose all their lives they will lose all of the levels and restart from scratch.
+# My games are based off of Sonic generations movement, sonic frontiers roaming and style, and shadow generations from level lay outs.
