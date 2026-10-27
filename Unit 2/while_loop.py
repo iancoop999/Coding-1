@@ -21,23 +21,20 @@
 
 
 
+def passwordReset():
+    attempts = 4
+    correctPw = 'abcd1234'
+    userPwAttempts = input ("PLEASE TYPE THE PASSWORD I'M BEGGING YOU!!!")
 
+    
+    while userPwAttempts != correctPw:
+     print ("NOO IT'S NOT CORRECT..HURRY TRY AGAIN!!")
+     userPwAttempts = input ("PLEASE TYPE THE PASSWORD")
+     attempts-= 1
+     print("You HAVE THESE AMOUNTS OF ATTEMPTS PLEASE COME ON!! " + str(attempts))
+     if attempts == 0:
+        print("NOOO...AHHHH!!!!- Your brother has died. There is no turning back now.")
+      
+        print ("THANK YOU BRO!!")
 
-
-
-    def guessingGame():
-        attempts = 3
-        correctnumber = 100
-        guess = input("guess a number BITCH 😡💢")
-        while guess != correctNumber:
-            print("DUMBASS YOU'RE WRONG TRY AGAIN🤬🤬")
-            attempts-=1
-            print(attempts)
-            guess = int(input())
-        if attempts == 0:
-                print("GAME OVER YOU'RE A RETARD!!👿🗯️")
-
-
-            
-            
-        
+passwordReset()        
