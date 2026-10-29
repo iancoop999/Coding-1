@@ -5,9 +5,15 @@ def VendingMachine():
     while userSelection != 'q':
         if userSelection == 'b3':
             print ("nacho chips!")
-            print ("Pleasetype in a value for items you want")
+            print ("Please type in a value for items you want")
             userSelection = input()
-
-            print ("THE VENDING MACHINE HAS BROKEN")
+        elif userSelection == 'g4':
+            print ("BBQ chips!")
+            print ("Please type in a value for items you want.")
+            userSelection = input()
+        
+        else:
+            print ("Sorry, the vending machine is off.")
+            print ("Sorry, but the vending machine cannot fulfuill this process and has now broke. Please see a staff member")
 
 VendingMachine()
