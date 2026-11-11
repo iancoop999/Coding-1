@@ -1,0 +1,19 @@
+1: The game is a one time-combat simulator where you post something super absurd on accident and the
+entire fandom of of social media finds where you live, doxes you and comes to try and harm you, but
+you have weapons to defend yourself.
+My mechanics will be a boost engine, the player would have a boost speed to run faster, and will also have a combat engine
+that can punch, kick, slap, etc. And will have weapons to fight off enemies and NPCS. The game will be a combat while your player
+has to run away from angry crowds after posting something super absurd and have to fight to the death. 
+
+2: The controls are simple, You can use your phone , or will be keyboard and mouse.
+You use WASD keys to move left right,up and down. The space bar can be used for jumping, but if you have a weapon,
+you can hold space to use a critical hit. The shift button will be used for running,the Q key is to pick upan object,
+the E key is to critical hit with, your fists and the RMB is to aim with your gun.
+
+The objects that will be in the game would be combat knifes, guns, crowbars, bats, any that can save and protect yourself.
+You would have only one life since the game runs on realistic memory that'll remember your actions, any mistake
+logged will sort in the file, causing an outcome. To prevent permenatly dying, that is why you have weapons
+to defend yourself and to protect your life. The knife does 20-40 damage depending on the charge. (light hit,20 damage
+critical hit: 40 damage) the gun can do loads of damage. (Head shit: 100 damage = complete kill, stomach shot,
+50 damage, chest shot: 60 damage, leg/arm damage: 30-45 damage) The crowbar and bat work the same. (Head hit: 90-100 damage
+if swung critical. If hit light,70-80 damage, anywhere else on the body does 30-70 damage.)
