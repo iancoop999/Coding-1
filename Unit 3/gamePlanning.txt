@@ -10,10 +10,15 @@ You use WASD keys to move left right,up and down. The space bar can be used for 
 you can hold space to use a critical hit. The shift button will be used for running,the Q key is to pick upan object,
 the E key is to critical hit with, your fists and the RMB is to aim with your gun.
 
-The objects that will be in the game would be combat knifes, guns, crowbars, bats, any that can save and protect yourself.
+3: The objects that will be in the game would be combat knifes, guns, crowbars, bats, any that can save and protect yourself.
 You would have only one life since the game runs on realistic memory that'll remember your actions, any mistake
 logged will sort in the file, causing an outcome. To prevent permenatly dying, that is why you have weapons
 to defend yourself and to protect your life. The knife does 20-40 damage depending on the charge. (light hit,20 damage
 critical hit: 40 damage) the gun can do loads of damage. (Head shit: 100 damage = complete kill, stomach shot,
 50 damage, chest shot: 60 damage, leg/arm damage: 30-45 damage) The crowbar and bat work the same. (Head hit: 90-100 damage
-if swung critical. If hit light,70-80 damage, anywhere else on the body does 30-70 damage.)
+if swung critical. If hit light,70-80 damage, anywhere else on the body does 30-70 damage.) The methods of the weapons are 
+to help you with your only life, and to travel without harm. The knife helps with with close combat incase of people sneak you,
+or does a close combat. The methods is, the knife can have a power up and turn into a sword giving you more of an advantage
+of combat and be more threatening. The gun helps you with long distant combat and can protect you more thurly. The methods of
+the gun is to be more percautious and to especially protect yourself even more carefully. And the gun can have a power
+that can turn into a minigun and easily kill people. 
